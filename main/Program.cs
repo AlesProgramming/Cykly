@@ -4,7 +4,7 @@
     {
         static void Main()
         {
-            Console.WriteLine("1 for task 1, 2 for task 2");
+            Console.WriteLine("1 for task 1 - 2 for task 2");
             string input = Console.ReadLine().Trim();
             if (input == "1")
             {

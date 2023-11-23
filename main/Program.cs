@@ -27,6 +27,7 @@
                 input = Console.ReadLine();
             }
             Console.WriteLine(full);
+            Console.WriteLine("-----------");
             Main();
         }
 
